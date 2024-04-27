@@ -2,7 +2,7 @@ package Entidades;
 
 import java.util.concurrent.ThreadLocalRandom;
 
-class Cliente extends Thread {
+public class Cliente extends Thread {
     private static final int[] VALORES_COMPRA = {100, 200};
     private Conta conta;
 

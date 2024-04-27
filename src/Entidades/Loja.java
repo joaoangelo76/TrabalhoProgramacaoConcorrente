@@ -1,6 +1,6 @@
 package Entidades;
 
-class Loja {
+public class Loja {
     private Conta conta;
 
     public Loja(Conta conta) {

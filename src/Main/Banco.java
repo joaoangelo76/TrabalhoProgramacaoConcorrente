@@ -1,9 +1,11 @@
+package src.Main;
+
 import Entidades.Cliente;
 import Entidades.Funcionario;
 import Entidades.Loja;
 import Entidades.Conta;
 
-class Banco {
+public class Banco {
     public static void main(String[] args) {
         Conta contaBanco = new Conta(0);
         Conta contaLoja1 = new Conta(0);

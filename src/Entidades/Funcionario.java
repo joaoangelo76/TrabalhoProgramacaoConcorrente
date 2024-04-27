@@ -1,6 +1,6 @@
 package Entidades;
 
-class Funcionario extends Thread {
+public class Funcionario extends Thread {
     private static final double SALARIO = 1400;
     private Conta contaSalario;
     private Conta contaInvestimento;

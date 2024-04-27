@@ -1,6 +1,6 @@
 package Entidades;
 
-class Conta {
+public class Conta {
     private double saldo;
 
     public Conta(double saldoInicial) {
