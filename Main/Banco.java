@@ -1,8 +1,7 @@
-import java.util.concurrent.ThreadLocalRandom;
-
-package Main;
-
-import Entidades.*;
+import Entidades.Cliente;
+import Entidades.Funcionario;
+import Entidades.Loja;
+import Entidades.Conta;
 
 class Banco {
     public static void main(String[] args) {
